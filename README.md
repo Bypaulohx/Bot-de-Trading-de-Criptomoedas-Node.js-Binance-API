@@ -61,7 +61,7 @@
 └── package.json
 ```
 ## Arquitetura
-```mermaid
+```
 flowchart LR
     A[Agendador] --> B[Motor]
     B --> C[Cliente Binance (@binance/spot)]
