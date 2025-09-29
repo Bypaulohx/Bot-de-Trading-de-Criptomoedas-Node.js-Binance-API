@@ -89,7 +89,3 @@ Substitua os arquivos em `docs/screenshots/` pelos seus:
 * Este é um **software educacional**. Cripto é volátil. Você é responsável pelo uso.
 * Sempre rode no **Spot Testnet** primeiro. Use `DRY_RUN=true` até entender completamente o código.
 * Alguns endpoints ou limites podem mudar — confira sempre a documentação oficial da Binance.
-
----
-
-Quer que eu também faça uma versão **resumida em português (tipo descrição curta para o GitHub)** baseada nesse README?
