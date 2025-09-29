@@ -1,0 +1,14 @@
+
+version: "3.8"
+services:
+  bot:
+    build: .
+    environment:
+      - API_KEY=${API_KEY}
+      - API_SECRET=${API_SECRET}
+      - USE_TESTNET=${USE_TESTNET:-true}
+      - SYMBOLS=${SYMBOLS:-BTCUSDT}
+      - INTERVAL=${INTERVAL:-15m}
+      - STRATEGY=${STRATEGY:-rsi}
+      - DRY_RUN=${DRY_RUN:-true}
+    restart: unless-stopped
