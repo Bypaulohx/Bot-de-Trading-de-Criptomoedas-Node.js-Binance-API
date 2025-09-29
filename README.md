@@ -13,7 +13,7 @@
 * ✅ Logs estruturados
 * ✅ Suporte a Docker
 
-## Início Rápido (VS Code)
+## Início Rápido
 
 1. **Instale Node 22+** (use `nvm`):
 
@@ -75,14 +75,6 @@ npm run format
 ```bash
 npm run backtest --   --symbol BTCUSDT   --interval 1h   --from 2024-01-01   --to 2024-12-31   --strategy rsi
 ```
-
-## Prints de Tela (placeholders)
-
-Substitua os arquivos em `docs/screenshots/` pelos seus:
-
-* `screenshot-setup.png` – Projeto no VS Code
-* `screenshot-run.png` – Bot rodando (dry-run)
-* `screenshot-backtest.png` – Resultado de backtest
 
 ## Avisos
 
