@@ -1,7 +1,3 @@
-Aqui está a versão em português do texto que você enviou:
-
----
-
 # Bot de Trading de Criptomoedas (Node.js + Binance Spot API)
 
 > **Bot automatizado testnet-first** com estratégias plug-and-play (RSI reversão à média, MACD tendência), gerenciamento de risco e backtesting. Construído com o conector oficial `@binance/spot`.
